@@ -32,4 +32,8 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshulbagal/DSA-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
