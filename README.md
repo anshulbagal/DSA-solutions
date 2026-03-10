@@ -28,10 +28,12 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Database
 |  |
 | ------- |
