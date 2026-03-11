@@ -44,4 +44,8 @@ My Data Structures and Algorithms practice solutions.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anshulbagal/DSA-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/anshulbagal/DSA-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anshulbagal/DSA-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
