@@ -48,4 +48,24 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/1009-complement-of-base-10-integer) |
+## Binary Search
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Greedy
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
