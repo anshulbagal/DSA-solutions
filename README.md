@@ -13,6 +13,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/anshulbagal/DSA-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/anshulbagal/DSA-solutions/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshulbagal/DSA-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 ## Array
@@ -26,6 +27,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anshulbagal/DSA-solutions/tree/master/0242-valid-anagram) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -95,6 +97,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anshulbagal/DSA-solutions/tree/master/0242-valid-anagram) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Matrix
 |  |
