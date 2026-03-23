@@ -23,6 +23,7 @@ My Data Structures and Algorithms practice solutions.
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshulbagal/DSA-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
@@ -46,6 +47,7 @@ My Data Structures and Algorithms practice solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Prefix Sum
@@ -117,6 +119,7 @@ My Data Structures and Algorithms practice solutions.
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshulbagal/DSA-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshulbagal/DSA-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
