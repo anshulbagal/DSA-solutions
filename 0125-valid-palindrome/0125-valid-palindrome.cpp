@@ -7,6 +7,8 @@ public:
                 newStr += tolower(c);
             }
         }
-        return newStr == string(newStr.rbegin(), newStr.rend());
+        string temp = newStr;
+        reverse(temp.begin(),temp.end());
+        return newStr == temp;
     }
 };
