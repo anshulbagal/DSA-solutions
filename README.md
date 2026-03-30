@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice solutions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshulbagal/DSA-solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/anshulbagal/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
@@ -102,6 +103,7 @@ My Data Structures and Algorithms practice solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -182,6 +184,7 @@ My Data Structures and Algorithms practice solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshulbagal/DSA-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/anshulbagal/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulbagal/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
