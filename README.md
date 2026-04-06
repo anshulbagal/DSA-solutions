@@ -40,6 +40,7 @@ My Data Structures and Algorithms practice solutions.
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshulbagal/DSA-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -67,6 +68,7 @@ My Data Structures and Algorithms practice solutions.
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshulbagal/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anshulbagal/DSA-solutions/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -215,6 +217,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anshulbagal/DSA-solutions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
