@@ -42,6 +42,7 @@ My Data Structures and Algorithms practice solutions.
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -150,6 +151,7 @@ My Data Structures and Algorithms practice solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
@@ -249,7 +251,16 @@ My Data Structures and Algorithms practice solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshulbagal/DSA-solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshulbagal/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anshulbagal/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
