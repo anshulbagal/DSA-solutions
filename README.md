@@ -60,6 +60,7 @@ My Data Structures and Algorithms practice solutions.
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshulbagal/DSA-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshulbagal/DSA-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -232,6 +234,7 @@ My Data Structures and Algorithms practice solutions.
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String Matching
 |  |
 | ------- |
