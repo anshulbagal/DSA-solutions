@@ -160,6 +160,7 @@ My Data Structures and Algorithms practice solutions.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anshulbagal/DSA-solutions/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -247,6 +248,7 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/anshulbagal/DSA-solutions/tree/master/0155-min-stack) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
