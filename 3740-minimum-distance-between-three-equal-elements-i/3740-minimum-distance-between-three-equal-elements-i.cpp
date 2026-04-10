@@ -1,23 +1,22 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        int n = nums.size();
-        int ans = INT_MAX;
+       unordered_map<int,vector<int>> mp;
+       int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                for (int k = j + 1; k < n; k++) {
-                    
-                    // check if it's a good tuple
-                    if (nums[i] == nums[j] && nums[j] == nums[k]) {
-                        
-                        int dist = abs(i - j) + abs(j - k) + abs(k - i);
-                        ans = min(ans, dist);
-                    }
-                }
-            }
+       for(int i=0;i<n;i++){
+        mp[nums[i]].push_back(i);
+       }
+       int ans = INT_MAX;
+       for(auto &it : mp){
+        vector<int>&v = it.second;
+        if(v.size() < 3) continue;
+
+        for(int i=0 ;i+2 < v.size();i++){
+            int dist = 2 * (v[i+2] - v[i]);
+            ans=min(ans,dist);
         }
-
-        return (ans == INT_MAX) ? -1 : ans;
+       }
+       return (ans == INT_MAX)? -1 : ans;
     }
 };
