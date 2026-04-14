@@ -54,6 +54,7 @@ My Data Structures and Algorithms practice solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshulbagal/DSA-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
+| [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/2906-construct-product-matrix) |
@@ -101,6 +102,7 @@ My Data Structures and Algorithms practice solutions.
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshulbagal/DSA-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -185,6 +187,7 @@ My Data Structures and Algorithms practice solutions.
 | [0242-valid-anagram](https://github.com/anshulbagal/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshulbagal/DSA-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
