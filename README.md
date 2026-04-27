@@ -56,6 +56,7 @@ My Data Structures and Algorithms practice solutions.
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -176,6 +177,7 @@ My Data Structures and Algorithms practice solutions.
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -223,6 +225,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anshulbagal/DSA-solutions/tree/master/0036-valid-sudoku) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -320,6 +323,7 @@ My Data Structures and Algorithms practice solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
@@ -333,5 +337,6 @@ My Data Structures and Algorithms practice solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
