@@ -8,6 +8,7 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulbagal/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/anshulbagal/DSA-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -55,6 +56,7 @@ My Data Structures and Algorithms practice solutions.
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -124,6 +126,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshulbagal/DSA-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
