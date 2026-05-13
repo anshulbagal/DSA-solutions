@@ -51,6 +51,7 @@ My Data Structures and Algorithms practice solutions.
 | [0015-3sum](https://github.com/anshulbagal/DSA-solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/anshulbagal/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/anshulbagal/DSA-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulbagal/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulbagal/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -126,6 +127,7 @@ My Data Structures and Algorithms practice solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/anshulbagal/DSA-solutions/tree/master/0046-permutations) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshulbagal/DSA-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
