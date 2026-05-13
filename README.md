@@ -361,4 +361,12 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anshulbagal/DSA-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anshulbagal/DSA-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
