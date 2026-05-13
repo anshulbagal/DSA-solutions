@@ -63,6 +63,7 @@ My Data Structures and Algorithms practice solutions.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anshulbagal/DSA-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshulbagal/DSA-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -109,6 +110,7 @@ My Data Structures and Algorithms practice solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/anshulbagal/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anshulbagal/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anshulbagal/DSA-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/anshulbagal/DSA-solutions/tree/master/2615-sum-of-distances) |
@@ -143,6 +145,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anshulbagal/DSA-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/anshulbagal/DSA-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshulbagal/DSA-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
