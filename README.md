@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice solutions.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/anshulbagal/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulbagal/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/anshulbagal/DSA-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
@@ -21,6 +22,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/anshulbagal/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshulbagal/DSA-solutions/tree/master/0076-minimum-window-substring) |
@@ -100,6 +102,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/anshulbagal/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/anshulbagal/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshulbagal/DSA-solutions/tree/master/0076-minimum-window-substring) |
