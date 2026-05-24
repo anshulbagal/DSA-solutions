@@ -1,33 +1,46 @@
 class Solution {
 public:
-    int memo[1001];
     
-    int dp(vector<int>& arr, int i, int d) {
-        if (memo[i] != -1) return memo[i];
+    int dfs(int i, vector<int>& arr, int d, vector<int>& dp) {
         
-        int best = 1; // at minimum, just stand here
+        if(dp[i] != -1) return dp[i];
+
         int n = arr.size();
-        
-        // Jump right
-        for (int x = 1; x <= d && i + x < n; x++) {
-            if (arr[i + x] >= arr[i]) break; // blocked
-            best = max(best, 1 + dp(arr, i + x, d));
+        int ans = 1;
+
+        // explore right
+        for(int j = i + 1; j <= min(n - 1, i + d); j++) {
+
+            // stop if blocked
+            if(arr[j] >= arr[i]) break;
+
+            ans = max(ans, 1 + dfs(j, arr, d, dp));
         }
-        
-        // Jump left
-        for (int x = 1; x <= d && i - x >= 0; x++) {
-            if (arr[i - x] >= arr[i]) break; // blocked
-            best = max(best, 1 + dp(arr, i - x, d));
+
+        // explore left
+        for(int j = i - 1; j >= max(0, i - d); j--) {
+
+            // stop if blocked
+            if(arr[j] >= arr[i]) break;
+
+            ans = max(ans, 1 + dfs(j, arr, d, dp));
         }
-        
-        return memo[i] = best;
+
+        return dp[i] = ans;
     }
-    
+
     int maxJumps(vector<int>& arr, int d) {
-        memset(memo, -1, sizeof(memo));
-        int ans = 0;
-        for (int i = 0; i < arr.size(); i++)
-            ans = max(ans, dp(arr, i, d));
-        return ans;
+
+        int n = arr.size();
+
+        vector<int> dp(n, -1);
+
+        int result = 1;
+
+        for(int i = 0; i < n; i++) {
+            result = max(result, dfs(i, arr, d, dp));
+        }
+
+        return result;
     }
 };
