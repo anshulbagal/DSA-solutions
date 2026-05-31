@@ -84,6 +84,7 @@ My Data Structures and Algorithms practice solutions.
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshulbagal/DSA-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anshulbagal/DSA-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshulbagal/DSA-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -211,6 +212,7 @@ My Data Structures and Algorithms practice solutions.
 | [0011-container-with-most-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshulbagal/DSA-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -260,6 +262,7 @@ My Data Structures and Algorithms practice solutions.
 | [1340-jump-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
