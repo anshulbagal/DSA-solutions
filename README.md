@@ -121,6 +121,7 @@ My Data Structures and Algorithms practice solutions.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshulbagal/DSA-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -150,6 +151,7 @@ My Data Structures and Algorithms practice solutions.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anshulbagal/DSA-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -200,6 +202,7 @@ My Data Structures and Algorithms practice solutions.
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
@@ -277,6 +280,7 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +332,7 @@ My Data Structures and Algorithms practice solutions.
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -339,6 +344,7 @@ My Data Structures and Algorithms practice solutions.
 | [1189-maximum-number-of-balloons](https://github.com/anshulbagal/DSA-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/anshulbagal/DSA-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -445,4 +451,8 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/anshulbagal/DSA-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
