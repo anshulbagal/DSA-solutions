@@ -113,6 +113,7 @@ My Data Structures and Algorithms practice solutions.
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/anshulbagal/DSA-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshulbagal/DSA-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -270,6 +271,7 @@ My Data Structures and Algorithms practice solutions.
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -281,6 +283,7 @@ My Data Structures and Algorithms practice solutions.
 | [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
@@ -336,6 +339,7 @@ My Data Structures and Algorithms practice solutions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshulbagal/DSA-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/anshulbagal/DSA-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshulbagal/DSA-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -454,6 +458,7 @@ My Data Structures and Algorithms practice solutions.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -475,4 +480,8 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
