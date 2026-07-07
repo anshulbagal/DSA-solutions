@@ -80,6 +80,7 @@ My Data Structures and Algorithms practice solutions.
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/anshulbagal/DSA-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anshulbagal/DSA-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -317,6 +318,7 @@ My Data Structures and Algorithms practice solutions.
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshulbagal/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/anshulbagal/DSA-solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/anshulbagal/DSA-solutions/tree/master/1833-maximum-ice-cream-bars) |
