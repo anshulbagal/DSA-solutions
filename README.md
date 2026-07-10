@@ -125,6 +125,7 @@ My Data Structures and Algorithms practice solutions.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshulbagal/DSA-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -197,6 +198,7 @@ My Data Structures and Algorithms practice solutions.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshulbagal/DSA-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anshulbagal/DSA-solutions/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshulbagal/DSA-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -240,6 +242,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/1009-complement-of-base-10-integer) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,6 +255,7 @@ My Data Structures and Algorithms practice solutions.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/anshulbagal/DSA-solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -269,6 +273,7 @@ My Data Structures and Algorithms practice solutions.
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -289,6 +294,7 @@ My Data Structures and Algorithms practice solutions.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshulbagal/DSA-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/anshulbagal/DSA-solutions/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
@@ -338,6 +344,7 @@ My Data Structures and Algorithms practice solutions.
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshulbagal/DSA-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -409,6 +416,7 @@ My Data Structures and Algorithms practice solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulbagal/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/anshulbagal/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshulbagal/DSA-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
