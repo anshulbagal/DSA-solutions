@@ -20,6 +20,7 @@ My Data Structures and Algorithms practice solutions.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshulbagal/DSA-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anshulbagal/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -534,4 +535,5 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshulbagal/DSA-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anshulbagal/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
