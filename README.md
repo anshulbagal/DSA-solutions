@@ -64,6 +64,7 @@ My Data Structures and Algorithms practice solutions.
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -135,6 +136,7 @@ My Data Structures and Algorithms practice solutions.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshulbagal/DSA-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -271,6 +273,7 @@ My Data Structures and Algorithms practice solutions.
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshulbagal/DSA-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -341,6 +344,7 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
