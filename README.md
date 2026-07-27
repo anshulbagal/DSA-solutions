@@ -91,6 +91,7 @@ My Data Structures and Algorithms practice solutions.
 | [0219-contains-duplicate-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/anshulbagal/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -237,6 +238,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/anshulbagal/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshulbagal/DSA-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/anshulbagal/DSA-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -349,6 +351,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anshulbagal/DSA-solutions/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/anshulbagal/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
