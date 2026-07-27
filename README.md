@@ -103,6 +103,7 @@ My Data Structures and Algorithms practice solutions.
 | [1331-rank-transform-of-an-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -343,6 +344,7 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -375,6 +377,7 @@ My Data Structures and Algorithms practice solutions.
 | [1288-remove-covered-intervals](https://github.com/anshulbagal/DSA-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/anshulbagal/DSA-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anshulbagal/DSA-solutions/tree/master/1840-maximum-building-height) |
