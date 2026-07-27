@@ -102,6 +102,7 @@ My Data Structures and Algorithms practice solutions.
 | [1331-rank-transform-of-an-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1480-running-sum-of-1d-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshulbagal/DSA-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -236,6 +237,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshulbagal/DSA-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/anshulbagal/DSA-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/anshulbagal/DSA-solutions/tree/master/1871-jump-game-vii) |
