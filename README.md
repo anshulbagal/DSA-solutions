@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice solutions.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshulbagal/DSA-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshulbagal/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -71,6 +72,7 @@ My Data Structures and Algorithms practice solutions.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -195,6 +197,7 @@ My Data Structures and Algorithms practice solutions.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -441,6 +444,7 @@ My Data Structures and Algorithms practice solutions.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/anshulbagal/DSA-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
@@ -592,4 +596,5 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
