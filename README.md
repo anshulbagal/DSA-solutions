@@ -218,6 +218,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anshulbagal/DSA-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/0788-rotated-digits) |
@@ -279,6 +280,7 @@ My Data Structures and Algorithms practice solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
