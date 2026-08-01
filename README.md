@@ -11,6 +11,7 @@ My Data Structures and Algorithms practice solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulbagal/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/anshulbagal/DSA-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anshulbagal/DSA-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -99,6 +100,7 @@ My Data Structures and Algorithms practice solutions.
 | [0303-range-sum-query-immutable](https://github.com/anshulbagal/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
@@ -221,6 +223,7 @@ My Data Structures and Algorithms practice solutions.
 | [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anshulbagal/DSA-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/anshulbagal/DSA-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshulbagal/DSA-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -567,6 +570,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anshulbagal/DSA-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -602,4 +606,8 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
