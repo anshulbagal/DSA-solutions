@@ -98,6 +98,7 @@ My Data Structures and Algorithms practice solutions.
 | [0219-contains-duplicate-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshulbagal/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anshulbagal/DSA-solutions/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/anshulbagal/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anshulbagal/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -289,6 +290,7 @@ My Data Structures and Algorithms practice solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
