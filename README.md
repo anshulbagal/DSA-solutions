@@ -92,6 +92,7 @@ My Data Structures and Algorithms practice solutions.
 | [0046-permutations](https://github.com/anshulbagal/DSA-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anshulbagal/DSA-solutions/tree/master/0051-n-queens) |
+| [0128-longest-consecutive-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulbagal/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulbagal/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
@@ -186,6 +187,7 @@ My Data Structures and Algorithms practice solutions.
 | [0036-valid-sudoku](https://github.com/anshulbagal/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshulbagal/DSA-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/anshulbagal/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anshulbagal/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -336,6 +338,7 @@ My Data Structures and Algorithms practice solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
