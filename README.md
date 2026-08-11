@@ -146,6 +146,7 @@ My Data Structures and Algorithms practice solutions.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshulbagal/DSA-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshulbagal/DSA-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
@@ -203,6 +204,7 @@ My Data Structures and Algorithms practice solutions.
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/anshulbagal/DSA-solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshulbagal/DSA-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -411,6 +413,7 @@ My Data Structures and Algorithms practice solutions.
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/3536-maximum-product-of-two-digits) |
