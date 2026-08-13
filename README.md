@@ -66,6 +66,7 @@ My Data Structures and Algorithms practice solutions.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshulbagal/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anshulbagal/DSA-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshulbagal/DSA-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -136,6 +137,7 @@ My Data Structures and Algorithms practice solutions.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshulbagal/DSA-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshulbagal/DSA-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anshulbagal/DSA-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshulbagal/DSA-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -386,6 +388,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -637,4 +640,8 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/1406-stone-game-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
