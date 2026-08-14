@@ -1,16 +1,16 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        vector<int> freq(26, 0);
-        
+        map<char, int> freq;
+
         int left = 0;
         int ans = 0;
 
         for(int right = 0; right < s.size(); right++) {
-            freq[s[right] - 'a']++;
+            freq[s[right]]++;
 
-            while(freq[s[right] - 'a'] > 2) {
-                freq[s[left] - 'a']--;
+            while(freq[s[right]] > 2) {
+                freq[s[left]]--;
                 left++;
             }
 
