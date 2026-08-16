@@ -20,6 +20,7 @@ My Data Structures and Algorithms practice solutions.
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/anshulbagal/DSA-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -134,6 +135,7 @@ My Data Structures and Algorithms practice solutions.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshulbagal/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshulbagal/DSA-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
@@ -332,6 +334,7 @@ My Data Structures and Algorithms practice solutions.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/anshulbagal/DSA-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshulbagal/DSA-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshulbagal/DSA-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -472,6 +475,7 @@ My Data Structures and Algorithms practice solutions.
 | [0347-top-k-frequent-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/anshulbagal/DSA-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/anshulbagal/DSA-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -637,16 +641,23 @@ My Data Structures and Algorithms practice solutions.
 | [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anshulbagal/DSA-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
