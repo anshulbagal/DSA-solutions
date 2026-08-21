@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice solutions.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshulbagal/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -157,6 +158,7 @@ My Data Structures and Algorithms practice solutions.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshulbagal/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshulbagal/DSA-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshulbagal/DSA-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshulbagal/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/anshulbagal/DSA-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshulbagal/DSA-solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -312,6 +314,7 @@ My Data Structures and Algorithms practice solutions.
 | [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/anshulbagal/DSA-solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshulbagal/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshulbagal/DSA-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -322,6 +325,7 @@ My Data Structures and Algorithms practice solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulbagal/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshulbagal/DSA-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshulbagal/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshulbagal/DSA-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -635,6 +639,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshulbagal/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshulbagal/DSA-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshulbagal/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -642,6 +647,7 @@ My Data Structures and Algorithms practice solutions.
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshulbagal/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
