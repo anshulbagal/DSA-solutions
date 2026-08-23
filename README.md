@@ -20,6 +20,7 @@ My Data Structures and Algorithms practice solutions.
 | [1563-stone-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/anshulbagal/DSA-solutions/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/anshulbagal/DSA-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshulbagal/DSA-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -67,6 +68,7 @@ My Data Structures and Algorithms practice solutions.
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshulbagal/DSA-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1871-jump-game-vii](https://github.com/anshulbagal/DSA-solutions/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/anshulbagal/DSA-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshulbagal/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -348,6 +350,7 @@ My Data Structures and Algorithms practice solutions.
 | [1386-cinema-seat-allocation](https://github.com/anshulbagal/DSA-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/anshulbagal/DSA-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/anshulbagal/DSA-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshulbagal/DSA-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
@@ -658,6 +661,7 @@ My Data Structures and Algorithms practice solutions.
 | [0877-stone-game](https://github.com/anshulbagal/DSA-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/anshulbagal/DSA-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
