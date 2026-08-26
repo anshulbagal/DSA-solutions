@@ -80,6 +80,7 @@ My Data Structures and Algorithms practice solutions.
 | [2833-furthest-point-from-origin](https://github.com/anshulbagal/DSA-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anshulbagal/DSA-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshulbagal/DSA-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshulbagal/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -578,6 +579,7 @@ My Data Structures and Algorithms practice solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/anshulbagal/DSA-solutions/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshulbagal/DSA-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshulbagal/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
