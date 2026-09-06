@@ -55,6 +55,7 @@ My Data Structures and Algorithms practice solutions.
 | [0020-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshulbagal/DSA-solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/anshulbagal/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anshulbagal/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anshulbagal/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/anshulbagal/DSA-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -261,6 +262,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/anshulbagal/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anshulbagal/DSA-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/anshulbagal/DSA-solutions/tree/master/0396-rotate-function) |
