@@ -1,28 +1,30 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        set<int> numbers;
+        int ans = 0;
 
-        for (int i = 0; i < digits.size(); i++) {
-            if (digits[i] == 0) continue; // no leading zero
+        for (int num = 100; num <= 998; num += 2) {
+            vector<int> cnt(10, 0);
 
-            for (int j = 0; j < digits.size(); j++) {
-                if (j == i) continue;
+            for (int d : digits)
+                cnt[d]++;
 
-                for (int k = 0; k < digits.size(); k++) {
-                    if (k == i || k == j) continue;
+            int a = num / 100;
+            int b = (num / 10) % 10;
+            int c = num % 10;
 
-                    if (digits[k] % 2 != 0) continue; // must be even
+            if (cnt[a] > 0) {
+                cnt[a]--;
 
-                    int num = digits[i] * 100
-                            + digits[j] * 10
-                            + digits[k];
+                if (cnt[b] > 0) {
+                    cnt[b]--;
 
-                    numbers.insert(num);
+                    if (cnt[c] > 0)
+                        ans++;
                 }
             }
         }
 
-        return numbers.size();
+        return ans;
     }
 };
