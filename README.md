@@ -185,6 +185,7 @@ My Data Structures and Algorithms practice solutions.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshulbagal/DSA-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -243,6 +244,7 @@ My Data Structures and Algorithms practice solutions.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshulbagal/DSA-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/anshulbagal/DSA-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -535,6 +537,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshulbagal/DSA-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -652,6 +655,7 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anshulbagal/DSA-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
