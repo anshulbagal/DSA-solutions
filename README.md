@@ -124,6 +124,7 @@ My Data Structures and Algorithms practice solutions.
 | [0486-predict-the-winner](https://github.com/anshulbagal/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/anshulbagal/DSA-solutions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/anshulbagal/DSA-solutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/anshulbagal/DSA-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1260-shift-2d-grid) |
@@ -488,6 +489,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anshulbagal/DSA-solutions/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/anshulbagal/DSA-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anshulbagal/DSA-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
