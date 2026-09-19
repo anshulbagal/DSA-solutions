@@ -16,6 +16,7 @@ My Data Structures and Algorithms practice solutions.
 | [0788-rotated-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/anshulbagal/DSA-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anshulbagal/DSA-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anshulbagal/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/anshulbagal/DSA-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/anshulbagal/DSA-solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/anshulbagal/DSA-solutions/tree/master/1622-fancy-sequence) |
@@ -649,6 +650,7 @@ My Data Structures and Algorithms practice solutions.
 ## Geometry
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anshulbagal/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshulbagal/DSA-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
