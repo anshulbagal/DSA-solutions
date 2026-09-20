@@ -93,6 +93,7 @@ My Data Structures and Algorithms practice solutions.
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshulbagal/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -589,6 +590,7 @@ My Data Structures and Algorithms practice solutions.
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshulbagal/DSA-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
