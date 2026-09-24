@@ -38,6 +38,7 @@ My Data Structures and Algorithms practice solutions.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshulbagal/DSA-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshulbagal/DSA-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshulbagal/DSA-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshulbagal/DSA-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -202,6 +203,7 @@ My Data Structures and Algorithms practice solutions.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshulbagal/DSA-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshulbagal/DSA-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-network-recovery-pathways](https://github.com/anshulbagal/DSA-solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
