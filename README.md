@@ -73,6 +73,7 @@ My Data Structures and Algorithms practice solutions.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anshulbagal/DSA-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshulbagal/DSA-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshulbagal/DSA-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -620,6 +621,7 @@ My Data Structures and Algorithms practice solutions.
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -758,4 +760,8 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/anshulbagal/DSA-solutions/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
