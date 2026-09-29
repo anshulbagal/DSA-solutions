@@ -170,6 +170,7 @@ My Data Structures and Algorithms practice solutions.
 | [2126-destroying-asteroids](https://github.com/anshulbagal/DSA-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshulbagal/DSA-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshulbagal/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anshulbagal/DSA-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshulbagal/DSA-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -303,6 +304,7 @@ My Data Structures and Algorithms practice solutions.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/anshulbagal/DSA-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/anshulbagal/DSA-solutions/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshulbagal/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/anshulbagal/DSA-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anshulbagal/DSA-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -523,6 +525,7 @@ My Data Structures and Algorithms practice solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anshulbagal/DSA-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshulbagal/DSA-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshulbagal/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/2906-construct-product-matrix) |
@@ -767,4 +770,5 @@ My Data Structures and Algorithms practice solutions.
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshulbagal/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
