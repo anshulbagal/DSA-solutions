@@ -58,6 +58,7 @@ My Data Structures and Algorithms practice solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anshulbagal/DSA-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/anshulbagal/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshulbagal/DSA-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/anshulbagal/DSA-solutions/tree/master/0115-distinct-subsequences) |
@@ -278,6 +279,7 @@ My Data Structures and Algorithms practice solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/anshulbagal/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anshulbagal/DSA-solutions/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/1096-brace-expansion-ii) |
@@ -286,6 +288,7 @@ My Data Structures and Algorithms practice solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshulbagal/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/anshulbagal/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/anshulbagal/DSA-solutions/tree/master/0338-counting-bits) |
@@ -769,6 +772,7 @@ My Data Structures and Algorithms practice solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshulbagal/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
