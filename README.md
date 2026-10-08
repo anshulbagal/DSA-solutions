@@ -73,6 +73,7 @@ My Data Structures and Algorithms practice solutions.
 | [0567-permutation-in-string](https://github.com/anshulbagal/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/anshulbagal/DSA-solutions/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anshulbagal/DSA-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -631,6 +632,7 @@ My Data Structures and Algorithms practice solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulbagal/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anshulbagal/DSA-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/anshulbagal/DSA-solutions/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshulbagal/DSA-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -780,6 +782,7 @@ My Data Structures and Algorithms practice solutions.
 | [0020-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshulbagal/DSA-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshulbagal/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
