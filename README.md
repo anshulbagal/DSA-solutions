@@ -182,6 +182,7 @@ My Data Structures and Algorithms practice solutions.
 | [2574-left-and-right-sum-differences](https://github.com/anshulbagal/DSA-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/anshulbagal/DSA-solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/anshulbagal/DSA-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -578,6 +579,7 @@ My Data Structures and Algorithms practice solutions.
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshulbagal/DSA-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshulbagal/DSA-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshulbagal/DSA-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
