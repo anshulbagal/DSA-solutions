@@ -90,6 +90,7 @@ My Data Structures and Algorithms practice solutions.
 | [1980-find-unique-binary-string](https://github.com/anshulbagal/DSA-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshulbagal/DSA-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anshulbagal/DSA-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anshulbagal/DSA-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshulbagal/DSA-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/anshulbagal/DSA-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -622,6 +623,7 @@ My Data Structures and Algorithms practice solutions.
 | [1260-shift-2d-grid](https://github.com/anshulbagal/DSA-solutions/tree/master/1260-shift-2d-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/anshulbagal/DSA-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshulbagal/DSA-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anshulbagal/DSA-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2751-robot-collisions](https://github.com/anshulbagal/DSA-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshulbagal/DSA-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshulbagal/DSA-solutions/tree/master/3498-reverse-degree-of-a-string) |
